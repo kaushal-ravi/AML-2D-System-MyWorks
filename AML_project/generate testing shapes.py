@@ -20,6 +20,7 @@ msp.add_lwpolyline([
     (0, box_height),
     (0, 0)
 ], dxfattribs={"closed": True})
+#kaushal
 
 # Generate 6 random shapes (mix of circles and rectangles)
 for i in range(6):
